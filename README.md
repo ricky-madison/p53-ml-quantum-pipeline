@@ -349,9 +349,9 @@ Issues and pull requests are welcome. For major changes, please open an issue fi
 
 ---
 
-## 📬 Contact
+## 📬 Citation
 
-For questions, please open an issue or contact the author directly.
+Ricky Madison. (2026). Gate‑Based Quantum Circuit‑Driven AI Pipeline for TP53 Pathogenicity Prediction: Integration of ESMFold2, IBM Quantum Circuits, and Machine Learning [Computer software]. RSOS. https://doi.org/10.5281/zenodo.21110307
 
 ---
 
