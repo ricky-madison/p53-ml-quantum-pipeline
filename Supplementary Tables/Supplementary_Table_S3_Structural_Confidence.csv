@@ -1,0 +1,13 @@
+Metric,Value
+Total proteins analyzed,150
+Mean sequence length,392.99
+Median sequence length,393
+Min sequence length,392
+Max sequence length,393
+Mean pLDDT (overall),87.55
+Median pLDDT (overall),87.52
+Min pLDDT (overall),34.1
+Max pLDDT (overall),98.97
+Number with DNA-binding domain (DBD),150 (100%)
+Number with tetramerization domain,148 (98.67%)
+Structures with mean pLDDT >70,150 (100%)
